@@ -13,8 +13,9 @@ By using data from the Coffee Quality Institute (CQI), we can see if certain cha
 The final goal is to understand what makes a coffee “good” and see whether different species are valued differently based on their sensory profile.
 
 # References
-1.Arabica dataset: https://github.com/jldbc/coffee-quality-  database/blob/master/data/arabica_data_cleaned.csv
-
-2.Robusta dataset: https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi
+1. GitHub- jldbc repository: https://github.com/jldbc/coffee-quality-  database/blob/master/data/arabica_data_cleaned.csv.
+2. Kaggle (Diego Volpatto): https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi
+3. Coffee Quality Institute (CQI): https://database.coffeeinstitute.org/
+   
   
   
